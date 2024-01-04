@@ -1,1 +1,1 @@
-In this repository, you will find a useful curated collection of Git Version Control System (VCS) cheat sheets from various online sources. I hope it will help you.
+In this repository, you will find a useful curated collection of Git Version Control System (VCS) and GitHub Source Version Management cloud platform cheat sheets from various online sources. I hope it will help you.
